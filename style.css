@@ -1,3 +1,7 @@
-div {
-  background-color: blue
+nav a {
+  color: black;
+}
+
+.page-container {
+  margin: 20px 60px;
 }
