@@ -80,3 +80,16 @@ nav a {
 .message-container {
   padding: 20px 5%;
 }
+
+.featured-container {
+  text-align: center;
+  margin: 10% 10% 15% 10%;
+}
+
+.rows-container {
+  margin: 5%;
+}
+
+.each-company-logo {
+  padding: 1%;
+}
