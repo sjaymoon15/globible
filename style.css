@@ -26,6 +26,9 @@ nav a {
   margin: 10% auto;
 }
 
+.laptop-container {
+  margin: 10% 0;
+}
 .laptop-container img {
   display: block;
   margin: auto;
