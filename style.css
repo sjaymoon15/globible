@@ -6,13 +6,18 @@ nav a {
   margin: 20px auto;
 }
 
+.container-fluid {
+  padding: 0 10%;
+}
+
 .intro-signup-container {
-  background-color: beige;
+  background-color: #f7f7f7;
 }
 
 .intro-signup-item {
   width: 50%;
-  margin: 20% 5%;
+  margin: 0 5%;
+  padding: 8% 5%;
 }
 
 .phone-image {
@@ -21,8 +26,6 @@ nav a {
 
 .phone-container {
   position: relative;
-  padding-top: 10%;
-  padding-bottom: 10%;
 }
 
 #phone {
@@ -34,6 +37,7 @@ nav a {
 
 .links-container {
   margin: 20px 40px;
+  padding: 3% 5%;
 }
 
 .links-container img {

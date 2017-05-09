@@ -1,8 +1,8 @@
 
 @media (min-width: 1080px) {
-  body {
+  /*body {
     background-color: rebeccapurple;
-  }
+  }*/
   #phone {
     max-width: 60%;
     position: absolute;
@@ -12,9 +12,9 @@
 }
 
 @media (min-width: 1500px) {
-  body {
+  /*body {
     background-color: pink;
-  }
+  }*/
   #phone {
     max-width: 60%;
     position: absolute;
@@ -24,9 +24,9 @@
 }
 
 @media (max-width: 767px) {
-  body {
+  /*body {
     background-color: blue;
-  }
+  }*/
   .intro-signup-item {
     width: 90%;
     margin: 0 auto;
