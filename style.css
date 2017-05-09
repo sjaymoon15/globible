@@ -5,3 +5,19 @@ nav a {
 .page-container {
   margin: 20px 60px;
 }
+
+.intro-signup-item {
+  margin: 20% 5%;
+}
+.phone-image {
+  padding: 0 10%;
+}
+
+.links-container {
+  margin: 20px 40px;
+}
+
+.links-container img {
+  display: block;
+  margin: 10% auto;
+}

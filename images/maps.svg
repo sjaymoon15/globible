@@ -1,0 +1,16 @@
+
+<svg width="36px" height="60px" viewBox="0 0 36 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-569.000000, -801.000000)" fill="#282828">
+            <g id="MAPS-+-Shape" transform="translate(568.000000, 801.000000)">
+                <text id="MAPS" font-family=".AppleSystemUIFont" font-size="13" font-weight="normal">
+                    <tspan x="0.8203125" y="58.374322">MAPS</tspan>
+                </text>
+                <path d="M24.6,0.463139638 L20,2.26313964 L16.4,0.463139638 C16.2,0.363139638 15.9,0.363139638 15.6,0.463139638 L10.6,2.46313964 C10.2,2.56313964 10,2.96313964 10,3.36313964 L10,15.3631396 C10,16.0631396 10.7,16.5631396 11.4,16.2631396 L16,14.4631396 L19.6,16.2631396 C19.9,16.3631396 20.1,16.3631396 20.4,16.2631396 L25.4,14.3631396 C25.8,14.2631396 26,13.8631396 26,13.4631396 L26,1.36313964 C26,0.663139638 25.3,0.163139638 24.6,0.463139638 L24.6,0.463139638 Z M17,2.96313964 L19,3.96313964 L19,13.7631396 L17,12.7631396 L17,2.96313964 L17,2.96313964 Z M12,4.06313964 L15,2.86313964 L15,12.6631396 L12,13.8631396 L12,4.06313964 L12,4.06313964 Z M24,12.7631396 L21,13.8631396 L21,4.06313964 L24,2.86313964 L24,12.7631396 L24,12.7631396 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
