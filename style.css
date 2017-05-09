@@ -20,6 +20,15 @@ nav a {
   padding: 8% 5%;
 }
 
+.intro-signup-item p {
+  color: #BCBDBD;
+  font-size: 18px;
+}
+
+#underLine {
+  color: #F68176;
+}
+
 .phone-image {
   padding: 0 10%;
 }
@@ -33,6 +42,16 @@ nav a {
   position: absolute;
   top: -20em;
   right: -26em;
+}
+
+.form-control {
+  padding: 5%;
+}
+
+#email {
+  background-color: #F68176;
+  color: white;
+  padding: 0 30px;
 }
 
 .links-container {
@@ -50,19 +69,19 @@ nav a {
 }
 
 .empty-space {
-  height: 20em;
+  height: 25em;
 }
 
 .kickstarter-container {
   position: relative;
-  background-color: pink;
+  background-color: #F68176;
   padding: 15% 10% 10% 10%;
 }
 
 #laptop {
-  max-width: 100%;
+  width: 80%;
   position: absolute;
-  top: -17em;
+  top: -25em;
   margin-left: auto;
   margin-right: auto;
   left: 0;
@@ -71,6 +90,10 @@ nav a {
 
 .thankyou-container {
   text-align: right;
+}
+
+.thankyou-container h1 {
+  color: white;
 }
 
 #kickstarterButton {
