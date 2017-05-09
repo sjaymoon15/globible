@@ -3,18 +3,33 @@ nav a {
 }
 
 .page-container {
-  margin: 20px 60px;
+  margin: 20px auto;
+}
+
+.intro-signup-container {
+  background-color: beige;
 }
 
 .intro-signup-item {
+  width: 50%;
   margin: 20% 5%;
 }
+
 .phone-image {
   padding: 0 10%;
 }
 
-.phone-image img {
-   max-width: 100%;
+.phone-container {
+  position: relative;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+#phone {
+  max-width: 60%;
+  position: absolute;
+  top: -20em;
+  right: -26em;
 }
 
 .links-container {

@@ -1,0 +1,44 @@
+
+@media (min-width: 1080px) {
+  body {
+    background-color: rebeccapurple;
+  }
+  #phone {
+    max-width: 60%;
+    position: absolute;
+    top: -25em;
+    right: -36em;
+  }
+}
+
+@media (min-width: 1500px) {
+  body {
+    background-color: pink;
+  }
+  #phone {
+    max-width: 60%;
+    position: absolute;
+    top: -25em;
+    right: -45em;
+  }
+}
+
+@media (max-width: 767px) {
+  body {
+    background-color: blue;
+  }
+  .intro-signup-item {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .phone-container {
+    position: static;
+    margin: 0 auto;
+  }
+  #phone {
+    max-width: 50%;
+    position: static;
+    
+  }
+}
