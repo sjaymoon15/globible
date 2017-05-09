@@ -13,6 +13,10 @@ nav a {
   padding: 0 10%;
 }
 
+.phone-image img {
+   max-width: 100%;
+}
+
 .links-container {
   margin: 20px 40px;
 }
@@ -20,4 +24,10 @@ nav a {
 .links-container img {
   display: block;
   margin: 10% auto;
+}
+
+.laptop-container img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
 }
