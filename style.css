@@ -48,8 +48,25 @@ nav a {
 .laptop-container {
   margin: 10% 0;
 }
-.laptop-container img {
+/*.laptop-container img {
   display: block;
   margin: auto;
   max-width: 100%;
+}*/
+.empty-space {
+  height: 20em;
+}
+
+.kickstarter-container {
+  position: relative;
+}
+
+#laptop {
+  max-width: 100%;
+  position: absolute;
+  top: -20em;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
 }
