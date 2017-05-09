@@ -1,44 +1,67 @@
 
 @media (min-width: 1080px) {
-  /*body {
-    background-color: rebeccapurple;
-  }*/
   #phone {
-    max-width: 60%;
+    width: 70%;
     position: absolute;
     top: -25em;
-    right: -36em;
+    right: -35em;
+  }
+  
+  #laptop {
+    width: 65%;
+    top: -25em;
   }
 }
 
 @media (min-width: 1500px) {
-  /*body {
-    background-color: pink;
-  }*/
   #phone {
-    max-width: 60%;
+    max-width: 65%;
     position: absolute;
-    top: -25em;
+    top: -30em;
     right: -45em;
   }
+
+   #laptop {
+    width: 65%;
+    top: -30em;
+  }
+  
 }
 
 @media (max-width: 767px) {
-  /*body {
-    background-color: blue;
-  }*/
+  nav a {
+    text-align: center;
+  }
+  
   .intro-signup-item {
     width: 90%;
     margin: 0 auto;
     text-align: center;
   }
+  
   .phone-container {
     position: static;
     margin: 0 auto;
   }
+  
   #phone {
     max-width: 50%;
     position: static;
-    
+  }
+  
+  .empty-space {
+    height: 20em;
+  }
+  
+  #laptop {
+    top: -20em;
+  }
+
+  .thankyou-container {
+    text-align: center;
+  }
+
+  .each-company-logo {
+    margin: 2%;
   }
 }

@@ -38,9 +38,9 @@ nav a {
 }
 
 #phone {
-  max-width: 60%;
+  width: 75%;
   position: absolute;
-  top: -20em;
+  top: -25em;
   right: -26em;
 }
 
@@ -102,6 +102,10 @@ nav a {
 
 .message-container {
   padding: 20px 5%;
+}
+
+.message-container p {
+  font-size: 18px;
 }
 
 .featured-container {
